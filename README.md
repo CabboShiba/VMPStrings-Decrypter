@@ -1,6 +1,8 @@
 # VMPStrings-Decrypter
 Decrypt VMProtect (.NET) obfuscated strings, using DNLib, and invoking. Made by Cabbo with love.
 
+Usage: Drag and drop your VMP assembly into the program.
+
 Before:
 
 ![image](https://user-images.githubusercontent.com/92642446/236548668-0b584d4f-f208-47a9-87a9-9a53a6f220b9.png)
